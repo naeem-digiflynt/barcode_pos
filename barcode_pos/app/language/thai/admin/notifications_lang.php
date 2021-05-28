@@ -1,0 +1,20 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+
+
+$lang['notification']               = "การแจ้งเตือน";
+$lang['add_notification']           = "เพิ่มการแจ้งเตือน";
+$lang['edit_notification']          = "แก้ไขการแจ้งเตือน";
+$lang['delete_notification']        = "ลบการแจ้งเตือน";
+$lang['delete_notifications']       = "ลบการแจ้งเตือน";
+$lang['notification_added']         = "เพิ่มการแจ้งเตือน สำเร็จแล้ว";
+$lang['notification_updated']       = "ปรับปรุงการแจ้งเตือน สำเร็จแล้ว";
+$lang['notification_deleted']       = "ลบการแจ้งเตือน สำเร็จแล้ว";
+$lang['notifications_deleted']      = "ลบการแจ้งเตือน สำเร็จแล้ว";
+$lang['submitted_at']               = "ส่งที่";
+$lang['till']                       = "จนถึง";
+$lang['comment']                    = "ความคิดเห็น";
+$lang['for_customers_only']         = "สำหรับลูกค้าเท่านั้น";
+$lang['for_staff_only']             = "สำหรับเจ้าหน้าที่เท่านั้น";
+$lang['for_both']                   = "สำหรับทั้งสองฝ่าย";
+$lang['till']                       = "จนถึง";
